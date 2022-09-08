@@ -1,2 +1,2 @@
-# HolaMundo
-proyecto de prueba
+# Aprendizaje Estadístico
+Entrega 2
